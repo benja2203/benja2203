@@ -62,7 +62,6 @@ Soy estudiante de Ingeniería en Informática y Analista QA en formación. Apasi
 ## 📊 GitHub Stats
 
 ![Benjamín's GitHub Stats](https://github-readme-stats.vercel.app/api?username=benja2203&show_icons=true&theme=tokyonight&hide_border=true)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=benja2203&theme=material-palenight)
 
 
 <div align="center">
