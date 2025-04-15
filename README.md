@@ -7,7 +7,7 @@
 Soy estudiante de Ingeniería en Informática y Analista QA en formación. Apasionado por la calidad del software, actualmente enfocado en fortalecer mis conocimientos en pruebas manuales, automatización y mejora continua.
 
 - 📌 Actualmente aprendiendo:
-  - Postman, Pytest, Selenium, Zephyr
+  - JMeter, Selenium
   - Automatización de pruebas (principiante)
 - 🤝 Busco colaborar en proyectos relacionados con QA y control de calidad.
 - 🧪 Me interesa todo lo relacionado con testing, herramientas, buenas prácticas y la mejora continua.
@@ -30,7 +30,7 @@ Soy estudiante de Ingeniería en Informática y Analista QA en formación. Apasi
 <span>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
   <img src="https://img.shields.io/badge/Pytest-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
+  <!-- <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"> -->
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white">
   <img src="https://img.shields.io/badge/Zephyr-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
@@ -41,7 +41,6 @@ Soy estudiante de Ingeniería en Informática y Analista QA en formación. Apasi
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux CLI-000000?style=for-the-badge&logo=linux&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
